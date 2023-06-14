@@ -3,7 +3,7 @@
     "name": "Github repository search",
     "description": "Search repositories on Github",
     "author": "fzdwx",
-    "icon": "https://raw.githubusercontent.com/fzdwx/launcher-github-repository-search/main/public/logo.svg",
+    "icon": "https://raw.githubusercontent.com/fzdwx/launcher-github-repository-search/main/public/logo.png",
     "giturl": "https://github.com/fzdwx/launcher-github-repository-search.git"
   }
 ]
