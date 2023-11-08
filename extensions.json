@@ -10,7 +10,7 @@
     "icon": "https://raw.githubusercontent.com/fzdwx/launcher-lock/main/public/img.png",
     "description": "锁屏插件",
     "author": "fzdwx",
-    "name": "launcher-lock",
+    "name": "Lock screen",
     "giturl": "https://github.com/fzdwx/launcher-lock.git"
   }
 ]
