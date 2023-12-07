@@ -5,5 +5,12 @@
     "author": "fzdwx",
     "icon": "https://raw.githubusercontent.com/fzdwx/launcher-github-repository-search/main/public/logo.png",
     "giturl": "https://github.com/fzdwx/launcher-github-repository-search.git"
+  },
+  {
+    "name": "Screen lock",
+    "description": "Call slock for linux",
+    "author": "fzdwx",
+    "icon": "https://raw.githubusercontent.com/fzdwx/launcher-lock/main/public/logo.png",
+    "giturl": "https://github.com/fzdwx/launcher-lock.git"
   }
 ]
