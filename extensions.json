@@ -7,17 +7,17 @@
     "giturl": "https://github.com/fzdwx/launcher-github-repository-search.git"
   },
   {
-    "name": "Screen lock",
-    "description": "Call slock for linux",
-    "author": "fzdwx",
-    "icon": "https://raw.githubusercontent.com/fzdwx/launcher-lock/main/public/logo.png",
-    "giturl": "https://github.com/fzdwx/launcher-lock.git"
-  },
-  {
     "name": "Translate",
     "description": "Translate selection text",
     "author": "fzdwx",
     "icon": "https://raw.githubusercontent.com/fzdwx/launcher-multi-translate/main/public/img.png",
     "giturl": "https://github.com/fzdwx/launcher-multi-translate.git"
+  },
+  {
+    "name": "Screen lock",
+    "description": "Call slock for linux",
+    "author": "fzdwx",
+    "icon": "https://raw.githubusercontent.com/fzdwx/launcher-lock/main/public/logo.png",
+    "giturl": "https://github.com/fzdwx/launcher-lock.git"
   }
 ]
