@@ -4,20 +4,20 @@
     "description": "Search repositories on Github",
     "author": "fzdwx",
     "icon": "https://raw.githubusercontent.com/fzdwx/launcher-github-repository-search/main/public/logo.png",
-    "giturl": "https://github.com/fzdwx/launcher-github-repository-search.git"
+    "github": "https://github.com/fzdwx/launcher-github-repository-search"
   },
   {
     "name": "Translate",
     "description": "Translate selection text",
     "author": "fzdwx",
     "icon": "https://raw.githubusercontent.com/fzdwx/launcher-multi-translate/main/public/img.png",
-    "giturl": "https://github.com/fzdwx/launcher-multi-translate.git"
+    "github": "https://github.com/fzdwx/launcher-multi-translate"
   },
   {
     "name": "Screen lock",
     "description": "Call slock for linux",
     "author": "fzdwx",
     "icon": "https://raw.githubusercontent.com/fzdwx/launcher-lock/main/public/logo.png",
-    "giturl": "https://github.com/fzdwx/launcher-lock.git"
+    "github": "https://github.com/fzdwx/launcher-lock"
   }
 ]
