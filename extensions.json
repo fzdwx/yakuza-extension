@@ -19,5 +19,12 @@
     "author": "fzdwx",
     "icon": "https://raw.githubusercontent.com/fzdwx/launcher-lock/main/public/logo.png",
     "github": "https://github.com/fzdwx/launcher-lock"
+  },
+  {
+    "name": "Devv",
+    "description": "最懂程序员的新一代 AI 搜索引擎",
+    "author": "fzdwx",
+    "icon": "https://raw.githubusercontent.com/fzdwx/launcher-devv/main/public/logo.png",
+    "github": "https://github.com/fzdwx/launcher-devv"
   }
 ]
