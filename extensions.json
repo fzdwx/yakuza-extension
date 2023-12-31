@@ -25,7 +25,13 @@
     "description": "A markdown note extension",
     "author": "fzdwx",
     "icon": "https://raw.githubusercontent.com/fzdwx/launcher-notes/main/public/logo.svg",
-    "github": "https://github.com/fzdwx/launcher-notes"
+    "github": "https://github.com/fzdwx/launcher-notes",
+    "actions": [
+      {
+        "name": "New note",
+        "command": "newNote"
+      }
+    ]
   },
   {
     "name": "Devv",
