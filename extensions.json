@@ -45,5 +45,12 @@
         "command": "devv-clipboard"
       }
     ]
+  },
+  {
+    "name": "JSON Viewer",
+    "description": "View JSON files in Launcher",
+    "author": "fzdwx",
+    "icon": "https://raw.githubusercontent.com/fzdwx/launcher-json/main/public/logo.svg",
+    "github": "https://github.com/fzdwx/launcher-json"
   }
 ]
